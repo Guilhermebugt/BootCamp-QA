@@ -1,6 +1,6 @@
 # BOOTCAMP ANALISTA QA
 
-<img src="logotipo_da_tripleten_aqui">
+<img src="C:\Users\guilh\OneDrive\Documentos\BootCamp-QA\Resources\download.png">
 
 #### Sprint 1
 - Introdução à análise QA
