@@ -1,6 +1,6 @@
 # BOOTCAMP ANALISTA QA
 
-<img src="C:\Users\guilh\OneDrive\Documentos\BootCamp-QA\Resources\download.png">
+Esse foi o primeito bootcamp do qual participei, aprendi diversas tecnologias e metodologias que espero poder aplicar no meu dia a dia como QA. O bootcamp teve a duração de 3 meses, tendo 6 sprints contando com o projeto final. No final de cada sprint foi densenvolvido um projeto para validar os conhecimentos adquiridos, abaixo listei todos os sprints e o conhecimento adquirido em cada uma delas. Cada pasta contém os documentos que foram elaborados no final das respectivas sprints, incluindo: mapas mentais, fluxogramas, cenários de teste, checklists, massa de dados, relatórios de bugs, etc...
 
 #### Sprint 1
 - Introdução à análise QA
